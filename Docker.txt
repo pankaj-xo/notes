@@ -21,4 +21,8 @@ sudo docker images
 
 
 //check runnung container 
-//docker ps
+docker ps
+
+
+//stop docker running container
+sudo docker stop NAME_OF_CONTAINER
